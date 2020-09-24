@@ -155,7 +155,7 @@
     </dependency>
     <dependency>
       <groupId>org.jdom</groupId>
-      <artifactId>com.springsource.org.jdom</artifactId>
+      <artifactId>jdom</artifactId>
     </dependency>
   </dependencies>
   <build>
