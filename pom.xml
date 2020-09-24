@@ -1107,12 +1107,12 @@
       </dependency>
       <dependency>
         <groupId>org.openid4java</groupId>
-        <artifactId>com.springsource.org.openid4java</artifactId>
+        <artifactId>openid4java</artifactId>
         <version>0.9.5</version>
       </dependency>
       <dependency>
         <groupId>net.sourceforge.nekohtml</groupId>
-        <artifactId>com.springsource.org.cyberneko.html</artifactId>
+        <artifactId>cyberneko.html</artifactId>
         <version>1.9.13</version>
       </dependency>
       <dependency>
@@ -1160,7 +1160,7 @@
       </dependency>
       <dependency>
         <groupId>org.apache.lucene</groupId>
-        <artifactId>com.springsource.org.apache.lucene</artifactId>
+        <artifactId>apache.lucene</artifactId>
         <version>2.4.1</version>
       </dependency>
       <!-- logging -->
